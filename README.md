@@ -16,17 +16,21 @@ library which i have used
 4. sklearn
 
 
-Porject Responsibility which i have shared below
+Porject Responsibilities which i have shared below
 ************************************************
 
-# I have done load dataset
+* I have done load dataset
 
-# I have done finding the missing data & I have checked null values present or not
+* I have done finding the missing data & I have checked null values present or not
 
-# I have removed stopwords like "a","the","and","in" etc.....
+* I have removed stopwords like "a","the","and","in" etc.....
 
-# I have converted all the words to lowercase & Cleaning Punctuations,Handling Repeating Characters,Removing Hashtags
+* I have converted all the words to lowercase & Cleaning Punctuations,Handling Repeating Characters,Removing Hashtags
 
-# I have done removing URL using regular Expressions 
+* I have done removing URL using regular Expressions 
 
-# I have done Lemmatizer,Stemmer
+* I have done Lemmatizer,Stemmer
+
+* I have used [LogisticRegression,MultinomialNB,DecisionTreeClassifier,RandomForestClassifier] these 4 ML Algorithm
+
+* I have done model training and finding the model score of the 4 algorithm
